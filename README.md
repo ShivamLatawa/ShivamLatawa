@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Shivam. I am an Associate Software Developer at Goldman Sachs. I have worked with Thoughtworks before as a Frontend Developer.
+### Hi there 👋 
+I'm Shivam. I am an Associate Software Developer at Goldman Sachs. I have worked with Thoughtworks before as a Frontend Developer.
 
 
 - 🔭 I’m currently working on https://www.shivamlatawa.dev
