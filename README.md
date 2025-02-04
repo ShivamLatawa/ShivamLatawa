@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Shivam. I am a Vice President/Lead Software Developer at Goldman Sachs. I have worked with Thoughtworks before as a Frontend Developer.
+I'm Shivam. I am a Staff Frontend Developer at Goldman Sachs. I have worked with Thoughtworks before as a Senior Frontend Developer.
 
 
 - 🔭 I’m currently working on https://www.shivamlatawa.dev
